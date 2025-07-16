@@ -1,10 +1,7 @@
-Sure! Here's the complete **`README.md`** file you can include in your GitHub project:
 
----
 
-### ✅ `README.md`
 
-````markdown
+`
 # Blink-Based Liveness Detection System
 
 This project implements a simple **liveness detection system** using **blink detection** and **head orientation prompts** (left/right turns) with OpenCV, dlib, and Haar cascade classifiers.
@@ -31,7 +28,7 @@ Install the following dependencies:
 
 ```bash
 pip install opencv-python dlib imutils scipy numpy
-````
+```
 
 Make sure the following files are available in the `dataset/` folder:
 
